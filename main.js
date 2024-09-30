@@ -48,5 +48,5 @@ function CreateFire(){
 	}
 	
 	updateString();
-	setTimeout(CreateFire,40);
+	setTimeout(CreateFire,1);
 }
